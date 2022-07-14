@@ -1,3 +1,2 @@
-# samanthaChu1123.github.io
-## My personal website
-[link here](https://samanthaChu1123.github.io)
+# Welcome to my personal website
+:hi: [link here](https://samanthaChu1123.github.io)
